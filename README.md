@@ -27,7 +27,7 @@ This repository is dedicated to my journey of learning **Angular** and integrati
     ```bash
     npm install -g @angular/cli
     ```
-    ### 3. Install Angular CLI (if not already installed):
+    ### 3. Install Angular CLI:
    ```bash
    npm install -g @angular/cli
    ```
@@ -39,15 +39,16 @@ This repository is dedicated to my journey of learning **Angular** and integrati
    any of the source files.
 
    ### 📚 Learning Progress
-### . [x] Initial Project Setup
+   
+### .Initial Project Setup
 
-### . [ ] Components & Data Binding
+### .Components & Data Binding
 
-### . [ ] Services & Dependency Injection
+### .Services & Dependency Injection
 
-### . [ ] Routing & Navigation
+### .Routing & Navigation
 
-### . [ ] Google API Integration (Maps/Auth)
+### .Google API Integration (Maps/Auth)
 
 
   ### 🔧 Project Structure
